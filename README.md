@@ -1,1 +1,1 @@
-i'm trying to understand and use git and github
+# odin-recipes
